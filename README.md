@@ -1,1 +1,1 @@
-
+Online library program created as part of Object Oriented Programming course. Has functions to Add, List, Search, Remove and Group. Also uses HELP to display command options and Exit to exit the program.
